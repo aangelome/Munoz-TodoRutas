@@ -27,5 +27,12 @@ En TodoRutas, valoramos las conexiones reales y duraderas. Organizamos excursion
 ## Público Objetivo
  Tengo un ecommerce de articulos para senderismo y mi público ronda entre los 18 y 65 años. 
 
+## Tipografía principal
+Ubuntu Condensed
 
-![TodoRutas](LogoTodoRutas-1.png))
+## Paleta de colores 
+#3F0910 , #3D4E2A , #486E26 
+
+## Logo 
+
+![TodoRutas](LogoTodoRutas.png)
