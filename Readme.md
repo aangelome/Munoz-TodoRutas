@@ -36,3 +36,7 @@ Ubuntu Condensed
 ## Logo 
 
 ![TodoRutas](LogoTodoRutas.png)
+
+## Link de Figma
+
+https://www.figma.com/file/LgVfVbtLRCNMumP86u7f5H/PROYECTO-FIGMA?type=design&node-id=0-1&mode=design&t=2xbTmJyFoOarRUf8-0
